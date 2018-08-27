@@ -584,14 +584,10 @@ DocumentPath=Project Outputs for LM3409_Circle\Gerbers_Drill\PCB1.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for LM3409_Circle\Gerbers_Drill\PCB1.step
-DItemRevisionGUID=
-
-[GeneratedDocument15]
 DocumentPath=Project Outputs for LM3409_Circle\PCB1.step
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for LM3409_Circle\Gerbers_Drill\PCB1.TXT
 DItemRevisionGUID=
 
